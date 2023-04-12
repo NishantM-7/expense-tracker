@@ -11,7 +11,7 @@ import './widgets/new_transaction.dart';
 import './widgets/transaction_list.dart';
 
 void main() {
-  // ignore: prefer_const_constructors
+  
   runApp(MyApp());
 }
 
